@@ -8,6 +8,10 @@
     "test" : "echo \"Error: no test specified\" && exit 1" ,
   	"lite" : "lite-server"
   },
+  "repository":{
+"type" : "git" ,
+"url" : "https://github.com/shikhar1997/npm-test"
+  },
   "author": "SC",
   "license": "ISC",
   "dependencies": { 
